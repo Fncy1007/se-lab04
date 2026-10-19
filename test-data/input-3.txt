@@ -1,0 +1,4 @@
+# Üres másodlagos tár esete SINGLE módban (váltás visszaugrik elsődlegesre)
+GT4500,2,0,0,0
+TORPEDO,SINGLE # Elsődlegesből lő
+TORPEDO,SINGLE # Másodlagos üres, így megint az elsődlegesből lő

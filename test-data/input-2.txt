@@ -1,0 +1,3 @@
+# Üres elsődleges tár esete SINGLE módban.
+GT4500,0,0,1,0
+TORPEDO,SINGLE # Mivel az elsődleges üres, a másodlagosból kell lőnie

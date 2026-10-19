@@ -1,0 +1,3 @@
+# Tüzelés ALL módban, de csak az elsődlegesben van torpedó
+GT4500,1,0,0,0
+TORPEDO,ALL # A teli tárból lő

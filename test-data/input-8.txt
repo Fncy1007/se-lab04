@@ -1,0 +1,3 @@
+# Tüzelés ALL módban maximális hibarátával
+GT4500,1,1.0,1,1.0
+TORPEDO,ALL # Mindkettő meghibásodik, sikertelen
