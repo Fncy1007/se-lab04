@@ -1,0 +1,4 @@
+# Váltakozó tüzelés SINGLE módban.
+GT4500,2,0,2,0
+TORPEDO,SINGLE # Elsődlegesből lő
+TORPEDO,SINGLE # Másodlagosból lő
